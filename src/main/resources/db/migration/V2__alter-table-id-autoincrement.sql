@@ -1,0 +1,1 @@
+ALTER TABLE tbtopicos CHANGE id id INT AUTO_INCREMENT;

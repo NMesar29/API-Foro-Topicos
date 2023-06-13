@@ -1,0 +1,1 @@
+ALTER TABLE tbtopicos CHANGE estatus_topico estatus_topico VARCHAR(150);
